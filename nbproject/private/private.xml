@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Learn%20Java/Java_Project_RestaurantMS/src/RTDRestaurant/Controller/Connection/DatabaseConnection.java</file>
+            <file>file:/D:/Learn%20Java/Java_Project_RestaurantMS/src/RTDRestaurant/View/Form/Staff_Form/Admin/MenuManagement_Form.java</file>
+            <file>file:/D:/Learn%20Java/Java_Project_RestaurantMS/src/RTDRestaurant/Controller/Service/ServiceStaff.java</file>
+            <file>file:/D:/Learn%20Java/Java_Project_RestaurantMS/src/RTDRestaurant/Controller/Service/ServiceUser.java</file>
+            <file>file:/D:/Learn%20Java/Java_Project_RestaurantMS/src/RTDRestaurant/View/Main_Frame/Main_Admin_Frame.java</file>
+            <file>file:/D:/Learn%20Java/Java_Project_RestaurantMS/src/RTDRestaurant/View/Form/Staff_Form/WarehouseStaff/InsertAndUpdate_Ingredient_Form.java</file>
+            <file>file:/D:/Learn%20Java/Java_Project_RestaurantMS/src/RTDRestaurant/Controller/Service/ServiceAdmin.java</file>
+            <file>file:/D:/Learn%20Java/Java_Project_RestaurantMS/src/RTDRestaurant/View/Form/Staff_Form/CusInformation_Form.java</file>
+            <file>file:/D:/Learn%20Java/Java_Project_RestaurantMS/src/RTDRestaurant/View/Form/Staff_Form/WarehouseStaff/CTNK_Form.java</file>
+            <file>file:/D:/Learn%20Java/Java_Project_RestaurantMS/src/RTDRestaurant/View/Form/MainForm.java</file>
+            <file>file:/D:/Learn%20Java/Java_Project_RestaurantMS/src/RTDRestaurant/View/Form/Staff_Form/Admin/CTNK_Form.java</file>
+            <file>file:/D:/Learn%20Java/Java_Project_RestaurantMS/src/RTDRestaurant/View/Form/Staff_Form/AccountS_Form.java</file>
+            <file>file:/D:/Learn%20Java/Java_Project_RestaurantMS/src/RTDRestaurant/View/Form/Staff_Form/Staff/BillS_Form.java</file>
+            <file>file:/D:/Learn%20Java/Java_Project_RestaurantMS/src/RTDRestaurant/Controller/Service/ServiceMail.java</file>
+            <file>file:/D:/Learn%20Java/Java_Project_RestaurantMS/src/RTDRestaurant/View/Form/Staff_Form/WarehouseStaff/Ingredient_Form.java</file>
+            <file>file:/D:/Learn%20Java/Java_Project_RestaurantMS/src/RTDRestaurant/Controller/Service/ServiceCustomer.java</file>
+            <file>file:/D:/Learn%20Java/Java_Project_RestaurantMS/src/RTDRestaurant/View/Form/Staff_Form/WarehouseStaff/InsertPXK_Form.java</file>
+            <file>file:/D:/Learn%20Java/Java_Project_RestaurantMS/src/RTDRestaurant/View/Form/Staff_Form/Staff/OrderFood_Form.java</file>
+            <file>file:/D:/Learn%20Java/Java_Project_RestaurantMS/src/RTDRestaurant/View/Form/Staff_Form/Admin/InsertAndUpdate_Food_Form.java</file>
+            <file>file:/D:/Learn%20Java/Java_Project_RestaurantMS/src/RTDRestaurant/View/Main_Frame/Main_Customer_Frame.java</file>
+            <file>file:/D:/Learn%20Java/Java_Project_RestaurantMS/src/RTDRestaurant/View/Main_Frame/Main_Staff_Frame.java</file>
+            <file>file:/D:/Learn%20Java/Java_Project_RestaurantMS/src/RTDRestaurant/View/Form/Staff_Form/Staff/TableMenuS_Form.java</file>
+            <file>file:/D:/Learn%20Java/Java_Project_RestaurantMS/src/RTDRestaurant/View/Form/Staff_Form/Admin/InsertAndUpdate_Staff_Form.java</file>
+            <file>file:/D:/Learn%20Java/Java_Project_RestaurantMS/src/RTDRestaurant/View/Main_Frame/Main_LoginAndRegister.java</file>
+            <file>file:/D:/Learn%20Java/Java_Project_RestaurantMS/src/RTDRestaurant/View/Component/LoginAndRegister_Component/PanelLoginAndRegister.java</file>
+            <file>file:/D:/Learn%20Java/Java_Project_RestaurantMS/src/RTDRestaurant/View/Form/Staff_Form/WarehouseStaff/CTXK_Form.java</file>
+            <file>file:/D:/Learn%20Java/Java_Project_RestaurantMS/src/RTDRestaurant/View/Component/LoginAndRegister_Component/PanelCover.java</file>
+            <file>file:/D:/Learn%20Java/Java_Project_RestaurantMS/src/RTDRestaurant/View/Form/Staff_Form/WarehouseStaff/Import_Form.java</file>
+            <file>file:/D:/Learn%20Java/Java_Project_RestaurantMS/src/RTDRestaurant/View/Main_Frame/Main_WarehouseStaff_Frame.java</file>
+            <file>file:/D:/Learn%20Java/Java_Project_RestaurantMS/src/RTDRestaurant/View/Form/Customer_Form/AccountC_Form.java</file>
+            <file>file:/D:/Learn%20Java/Java_Project_RestaurantMS/src/RTDRestaurant/View/Form/Staff_Form/WarehouseStaff/Warehouse_Form.java</file>
+            <file>file:/D:/Learn%20Java/Java_Project_RestaurantMS/src/RTDRestaurant/View/Form/Staff_Form/Admin/BillStatistic_Form.java</file>
+        </group>
+    </open-files>
+</project-private>
